@@ -10,7 +10,9 @@
 </p>
   </div>
   
-  <div> </div>
+  <div class="col-6">
+  ![logo](https://github.com/jaivin92/jaivin92/blob/main/coverpic.jpg)
+  </div>
 
 </div>
 <h1 align="center">Hi 👋, I'm Jaivin Mungara</h1>
