@@ -1,3 +1,5 @@
+![logo](https://github.com/jaivin92/jaivin92/blob/main/coverpic.jpg)
+
 ### Hi there 👋
 
 <!--
