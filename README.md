@@ -1,7 +1,7 @@
 ![logo](https://github.com/jaivin92/jaivin92/blob/main/coverpic.jpg)
 
 <div>
-  <div className="col-6"> 
+  <div style="width:50%; float:left;"> 
   <h1 align="center">Hi 👋, I'm Jaivin Mungara</h1>
 <h3 align="center">A passionate Native Android (JAVA,Kotlin) , Hybrid App (Flutter, jetpack Compose, React native), MERN (Full Stack Development) developer from India.</h3>
 
@@ -10,7 +10,7 @@
 </p>
   </div>
   
-  <div className="col-6">
+  <div style="width:50%; float:left;">
   ![logo](https://github.com/jaivin92/jaivin92/blob/main/coverpic.jpg)
   </div>
 
