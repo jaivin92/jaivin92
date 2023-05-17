@@ -11,7 +11,7 @@
   </div>
   
   <div style="width:50%; float:left;">
-  ![logo](https://github.com/jaivin92/jaivin92/blob/main/coverpic.jpg)
+  [logo](https://github.com/jaivin92/jaivin92/blob/main/coverpic.jpg)
   </div>
 
 </div>
