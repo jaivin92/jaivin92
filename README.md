@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Native Android (JAVA,Kotlin) , Hybrid App (Flutter, jetpack Compose, React native), MERN (Full Stack Development) developer.</h3>
 <p style="width:100%">
   trjgkstjosdfjsdiofj
-</div>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
