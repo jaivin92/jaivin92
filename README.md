@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Jaivin Mungara</h1>
 <h3 align="center">A passionate Native Android (JAVA,Kotlin) , Hybrid App (Flutter, jetpack Compose, React native), MERN (Full Stack Development) developer.</h3>
-<div style="width:100%">
+<p style="width:100%">
   trjgkstjosdfjsdiofj
 </div>
 <h3 align="left">Connect with me:</h3>
