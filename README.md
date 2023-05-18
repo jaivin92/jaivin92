@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Native Android (JAVA,Kotlin) , Hybrid App (Flutter, jetpack Compose, React native), MERN (Full Stack Development) developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/jaivin-mungara-patel-116303144/" target="balnk">
+<a href="https://www.linkedin.com/in/jaivin-mungara-patel-116303144/" target="balnk">Jaivin Mungara</a>
 <p align="left">
 </p>
 
