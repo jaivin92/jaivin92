@@ -2,8 +2,12 @@
 
 
 <h1 align="center">Hi 👋, I'm Jaivin Mungara</h1>
-<h3 align="center">A passionate Native Android (JAVA,Kotlin) , Hybrid App (Flutter, jetpack Compose, React native), MERN (Full Stack Development) developer from India.</h3>
-
+<h3 align="center">A passionate Native Android (JAVA,Kotlin) , Hybrid App (Flutter, jetpack Compose, React native), MERN (Full Stack Development) developer.</h3>
+<div class="row">
+  <div class="col-6">
+  111</div>
+  <div class="col-6">2222</div>
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
