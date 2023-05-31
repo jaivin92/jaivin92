@@ -1,13 +1,10 @@
 ![logo](https://github.com/jaivin92/jaivin92/blob/main/coverpic.jpg)
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <h1 align="center">Hi 👋, I'm Jaivin Mungara</h1>
 <h3 align="center">A passionate Native Android (JAVA,Kotlin) , Hybrid App (Flutter, jetpack Compose, React native), MERN (Full Stack Development) developer.</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a  href="https://www.linkedin.com/in/jaivin-mungara-patel-116303144/" target="balnk"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30" height="30"/></a>
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jaivin-mungara-patel-116303144" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/jaivin-mungara-patel-116303144?trk=profile-badge">Jaivin Mungara (Patel)</a></div>
-              
 </p>
 <p align="left">
 </p>
