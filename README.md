@@ -1,5 +1,5 @@
 ![logo](https://github.com/jaivin92/jaivin92/blob/main/coverpic.jpg)
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <h1 align="center">Hi 👋, I'm Jaivin Mungara</h1>
 <h3 align="center">A passionate Native Android (JAVA,Kotlin) , Hybrid App (Flutter, jetpack Compose, React native), MERN (Full Stack Development) developer.</h3>
