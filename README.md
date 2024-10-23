@@ -1,7 +1,7 @@
 ![logo](https://github.com/jaivin92/jaivin92/blob/main/coverpic.jpg)
 
 <h1 align="center">Hi 👋, I'm Jaivin Mungara</h1>
-<h3 align="center">A passionate MERN (Full Stack Development), Node, MongoDb, SQL, Prisma ORM, Nest js, Next js, Native Android (JAVA,Kotlin) , Hybrid App (Flutter, jetpack Compose, React native) developer.</h3>
+<h3 align="center">A passionate MERN (Full Stack Development), Node, MongoDb, SQL, Prisma ORM, Nest js, Next js, Android (JAVA,Kotlin) , Hybrid App (Flutter, jetpack Compose, React native) developer.</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
